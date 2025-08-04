@@ -9,3 +9,7 @@ rm -fr .git
 7z x ubuntu_24.04.2.7z.001
 md5sum ubuntu_24.04.2.tar.gz
 ```
+
+```
+rm -f ubuntu_24.04.2.7z.*
+```
